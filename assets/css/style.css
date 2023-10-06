@@ -26,12 +26,7 @@ h4{
     width: 100%;
        
   }
-/* main.div{
-    display: inline-block;
-}
-main.div.span{
-    bottom: 2rem;
-} */
+
 .primoBlocco{
     background-color: whitesmoke;
     display: inline-block;
@@ -41,16 +36,9 @@ main.div.span{
 .primoBlocco + img{
     width: 2rem;
 }
-/* .primoBlocco.img{
-    width: 20%; 
-} */
-/* main div + div + img{
-    margin: 2rem;
-    width:7rem;
-} */
+
 footer div{
     background-color: #37475A;
-    /* background-color: #37475A; */
     margin-top: 2rem;
     margin-bottom: 0rem;
     margin: 0;
@@ -73,4 +61,11 @@ nav a{
 }
 main h4{
     color: white;
+}
+main p {
+    margin-top:-2rem;
+}
+.margine{ 
+    padding: 2rem;
+    margin-top: -4rem;
 }
