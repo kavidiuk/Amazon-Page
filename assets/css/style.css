@@ -1,0 +1,76 @@
+/* Your styles here */
+html{
+    text-align: center;
+}
+header{
+    background: #232F3F;
+    text-align: left;  
+      
+}
+nav{
+   background: #37475A; 
+   padding: 1rem ;
+   text-align: left; 
+}
+h4{
+    background: #F56600;
+    padding: 1rem;
+    margin: 1.5rem;    
+}
+
+.img {
+    display: inline-block;
+    padding: 17px;
+    margin-inline: auto;
+    box-sizing: border-box;
+    width: 100%;
+       
+  }
+/* main.div{
+    display: inline-block;
+}
+main.div.span{
+    bottom: 2rem;
+} */
+.primoBlocco{
+    background-color: whitesmoke;
+    display: inline-block;
+    margin-inline: auto;
+   
+}
+.primoBlocco + img{
+    width: 2rem;
+}
+/* .primoBlocco.img{
+    width: 20%; 
+} */
+/* main div + div + img{
+    margin: 2rem;
+    width:7rem;
+} */
+footer div{
+    background-color: #37475A;
+    /* background-color: #37475A; */
+    margin-top: 2rem;
+    margin-bottom: 0rem;
+    margin: 0;
+    padding: 1rem;
+}
+footer div img{
+    background-color: #242E3D;
+    margin-top: 0;
+    
+}
+.prova{
+    width: 20rem;
+    height: 17rem;
+    border-radius: 7%;
+    box-shadow: 2px 4px;
+    
+}
+nav a{ 
+    color: white;
+}
+main h4{
+    color: white;
+}
